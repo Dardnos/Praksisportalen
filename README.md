@@ -1,6 +1,6 @@
-# Praksisplasslista
+# Praksisportalen
 
-Welcome to the code repository for the praksisplasslista project.
+Welcome to the code repository for the Praksisportalen project.
 
 This project is a web platform designed and requested by Helse Møre og Romsdal to manage their internships.
 
